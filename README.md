@@ -1,2 +1,2 @@
-# Lista de compras
-# Shopping list
+# API Lista de compras
+
