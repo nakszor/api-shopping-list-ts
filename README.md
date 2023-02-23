@@ -1,1 +1,2 @@
-# api-shopping-list-ts
+# Lista de compras
+# Shopping list
